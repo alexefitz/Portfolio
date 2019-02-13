@@ -1,4 +1,6 @@
 //Name: Alex Fitzmaurice
+//Creates a multiplication table based on parameters set by user, 
+//then outputs data either to command terminal or a CSV file
 #include <iostream>
 #include <string>
 #include <fstream>
